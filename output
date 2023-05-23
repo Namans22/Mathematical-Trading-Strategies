@@ -1,1 +1,77 @@
+Daily Returns:
+ DIS       0.000000
+NFLX      0.000000
+TSLA      0.000000
+V         0.000000
+WMT       0.000000
+^BSESN    0.000292
+^DJI      0.000000
+^GSPC     0.000000
+^NSEI     0.001835
+^RUT      0.000000
+Name: 2023-05-23 00:00:00, dtype: float64
 
+Cumulative Returns:
+ DIS         3.287043
+NFLX       47.514400
+TSLA      118.587248
+V          11.554506
+WMT         3.713536
+^BSESN      3.529970
+^DJI        3.145002
+^GSPC       3.700500
+^NSEI       3.506747
+^RUT        2.804843
+Name: 2023-05-23 00:00:00, dtype: float64
+
+Max Drawdowns:
+ DIS      -0.583131
+NFLX     -0.819904
+TSLA     -0.736322
+V        -0.363649
+WMT      -0.364352
+^BSESN   -0.380701
+^DJI     -0.370862
+^GSPC    -0.339250
+^NSEI    -0.384399
+^RUT     -0.430613
+dtype: float64
+
+Volatility:
+ DIS       0.016287
+NFLX      0.032129
+TSLA      0.035613
+V         0.016070
+WMT       0.012057
+^BSESN    0.010550
+^DJI      0.010666
+^GSPC     0.011024
+^NSEI     0.010570
+^RUT      0.014286
+dtype: float64
+
+Sharpe Ratio:
+ DIS       0.029257
+NFLX      0.050890
+TSLA      0.057947
+V         0.052048
+WMT       0.037481
+^BSESN    0.039860
+^DJI      0.036410
+^GSPC     0.039843
+^NSEI     0.039626
+^RUT      0.028052
+dtype: float64
+
+Sortino Ratio:
+ DIS       0.039138
+NFLX      0.069485
+TSLA      0.083657
+V         0.070613
+WMT       0.048866
+^BSESN    0.051247
+^DJI      0.043489
+^GSPC     0.048169
+^NSEI     0.050758
+^RUT      0.036130
+dtype: float64
